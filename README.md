@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**shammi-udum/shammi-udum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;My+name+is+Shammi+Udumalagala+;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
