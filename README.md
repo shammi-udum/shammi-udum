@@ -1,5 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;My+name+is+Shammi+Udumalagala+;Thanks+for+stopping+by!)](https://git.io/typing-svg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shammi-udu.shammi-udu">
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Shammi+Udumalagala+;Thanks+for+stopping+by!&center=true&size=20">
+ </a>
+</h1>
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/shammi-udumalagala/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+</h5>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
